@@ -19,8 +19,3 @@
  <br>
 
   ![Snake animation](https://github.com/Iruma7w7/Iruma7w7/blob/output/github-contribution-grid-snake.svg)
-
-<br>
-
-[![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/8t95x2ufiimkamiugvhhto77i) 
- <br/>
