@@ -22,5 +22,5 @@
 
 <br>
 
-[![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/8t95x2ufiimkamiugvhhto77i?si=oi8SWQGiRima_h49iTEaDg) 
+[![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/8t95x2ufiimkamiugvhhto77i) 
  <br/>
